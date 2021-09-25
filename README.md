@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rukash_CSE.
+- 👋 Hi, I’m @Rukash_DG.
 - 👀 I’m interested in SOFTWARE FIELD.
 - 🌱 I’m currently learning FLUTTER, LINUX.
 - 💞️ I’m looking to collaborate on SOFTWARE DEVELOPER, SOFTWARE TESTING.
