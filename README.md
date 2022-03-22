@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RukashCSE
 - 👀 I’m interested in Software Field.
 - 🌱 I’m currently learning Flutter,Linux.
-- 📫 How to reach me rukashtamil@gmail.com
+- 📫 How to reach me rukash2001@gmail.com
 
 <!---
 RukashCSE/RukashCSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
