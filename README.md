@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RukashCSE
-- 👀 I’m interested in Software Field.
-- 🌱 I’m currently learning Flutter,Linux.
+- 👀 I’m interested in Full Stack Development, App Development.
+- 🌱 I’m currently learning Flutter,Ajax.
 - 📫 How to reach me rukash2001@gmail.com
 
 <!---
